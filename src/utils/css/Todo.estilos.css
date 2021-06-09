@@ -1,0 +1,23 @@
+.Container_Cabecera{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	height: auto;
+	}
+
+.ContainerText{
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+	margin: 10px;
+	font-family: Impact;
+    font-size: 20px;
+	}	
+.ContainerImage{
+	display: flex;
+	width: 50%;
+	margin-right: 10px;
+	height: 100%;
+	justify-content: center;
+	
+	}		
