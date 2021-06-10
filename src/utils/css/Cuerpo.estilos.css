@@ -1,8 +1,24 @@
 .Container_Cuerpo{
 	display: flex;
 	width: 100%;
-	height: 30.3vh;
 	justify-content: space-between;
-	border:2px solid blue;
-	background-size: contain;
+	height: auto;
+	background: #F6CECE;
 	}
+
+.ContainerText{
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+	margin: 10px;
+	font-family: Impact;
+    font-size: 20px;
+	}	
+.ContainerImage{
+	display: flex;
+	width: 50%;
+	margin-right: 10px;
+	height: 100%;
+	justify-content: center;
+	
+	}		
