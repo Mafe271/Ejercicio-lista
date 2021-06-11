@@ -1,25 +1,7 @@
 .Container_Footer{
 	display: flex;
 	width: 100%;
-	justify-content: space-between;
 	height: auto;
-	background: #F6CECE;
+	margin: 20px 5px;
 	}
 
-.ContainerText{
-	display: flex;
-	flex-direction: column;
-	width: 50%;
-	margin: 10px;
-	font-family: Impact;
-    font-size: 20px;
-	}	
-.ContainerImage{
-	display: flex;
-	width: 50%;
-	margin-right: 10px;
-	height: auto;
-	justify-content: center;
-	background: #F6CECE;
-	
-	}		
